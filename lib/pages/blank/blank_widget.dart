@@ -130,7 +130,7 @@ class _BlankWidgetState extends State<BlankWidget>
                                         child: Image.asset(
                                           'assets/images/White.png',
                                           width: 343.0,
-                                          height: 204.0,
+                                          height: 150.0,
                                           fit: BoxFit.fitWidth,
                                         ),
                                       ).animateOnPageLoad(animationsMap[
